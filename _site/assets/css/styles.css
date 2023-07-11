@@ -1,0 +1,41 @@
+.txt-type > .txt {
+    font-size: 20px; /* Change this value to adjust the size of the text */
+    /* font-weight: bold; This makes the text bold */
+    border-right: 0.2em solid #666;
+    animation: blink 0.75s step-end infinite;
+}
+
+@keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: #00ff1e; }
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.organizer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+.side-image {
+    max-width: 20%; /* Adjust based on your requirements */
+}
+
+.organizer-info {
+    text-align: center;
+}
+
+.organizers-title {
+    text-align: center;
+    font-size: 14px;
+}
+
+.organizers-subtitle {
+    text-align: center;
+    font-size: 10px;
+}

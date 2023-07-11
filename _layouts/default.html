@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src 'self'; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; media-src 'self'; object-src 'self'; child-src 'self'; form-action 'none'; base-uri 'self'" />
+<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
+<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="container">
+
+      {%- include header.html -%}
+
+    <main>
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+
+    <!-- <div class="image-container">
+      <img class="side-image" src="/assets/images/aj.png" alt="aj2221@ic.ac.uk">
+      <img class="side-image" src="/assets/images/av.png" alt="aj2221@ic.ac.uk">
+    </div> -->
+
+    <h1 class="organizers-title">Organisers</h1>
+    <p class="organizers-subtitle">Please contact us for enquiries.</p>
+    <div class="image-container">
+      <div class="organizer">
+        <img class="side-image" src="/assets/images/aj.png" alt="aj2221@ic.ac.uk">
+        <div class="organizer-info">
+          <h4>Alexander Jenkins</h4>
+          <p><a href="mailto:aj2221@ic.ac.uk">aj2221@ic.ac.uk</a></p>
+        </div>
+      </div>
+      <div class="organizer">
+        <img class="side-image" src="/assets/images/av.png" alt="aj2221@ic.ac.uk">
+        <div class="organizer-info">
+          <h4>Avish Vijayaraghavan</h4>
+          <p><a href="mailto:aj2221@ic.ac.uk">aj2221@ic.ac.uk</a></p>
+        </div>
+      </div>
+    </div>
+    
+  
+    </div>
+    <script src="/assets/js/typeWriter.js"></script>
+  </body>
+</html>
