@@ -28,6 +28,7 @@
 
 .organizer-info {
     text-align: center;
+    font-size: 10px;
 }
 
 .organizers-title {
@@ -39,3 +40,62 @@
     text-align: center;
     font-size: 10px;
 }
+
+.sponsors-title {
+    text-align: center;
+}
+  
+.sponsor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  
+.sponsor-image {
+    max-width: 15%; /* Adjust as needed */
+    height: auto;
+    padding: 30px; /* Optional, adds some space between the images */
+}
+
+.info span {
+    display: block;
+    margin-bottom: 0.5em;  /* Adjust as needed */
+}
+  
+@keyframes buttonAnimation {
+    0%   { transform: scale(1.05); }
+    50%  { transform: scale(0.95); }
+    100% { transform: scale(1.05); }
+}
+  
+.animated-button {
+    display: inline-block;
+    transition: transform 0.5s ease-in-out;
+    animation: buttonAnimation 2s infinite; /* This line starts the animation */
+}
+
+.center {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+  
+pre {
+    font-family: monospace; /* Ensures that the font is a fixed-width font */
+    margin: 0;              /* Removes any default margin */
+}
+
+.ascii-art-container {
+    display: flex;
+    justify-content: center;
+}
+  
+.ascii-art-container pre {
+    text-align: left; /* optional, ensure the ASCII art aligns as expected */
+}
+  
+  

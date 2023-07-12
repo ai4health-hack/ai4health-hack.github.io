@@ -1,6 +1,4 @@
 ---
-title: /organisers
-layout: post
+title: /contact
+layout: page
 ---
-
-poo
