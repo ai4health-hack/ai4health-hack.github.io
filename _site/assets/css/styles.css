@@ -28,7 +28,7 @@
 
 .organizer-info {
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .organizers-title {
@@ -38,7 +38,7 @@
 
 .organizers-subtitle {
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .sponsors-title {
@@ -65,9 +65,9 @@
 }
   
 @keyframes buttonAnimation {
-    0%   { transform: scale(1.05); }
-    50%  { transform: scale(0.95); }
-    100% { transform: scale(1.05); }
+    0%   { transform: scale(1.1); }
+    50%  { transform: scale(0.9); }
+    100% { transform: scale(1.1); }
 }
   
 .animated-button {
@@ -98,4 +98,20 @@ pre {
     text-align: left; /* optional, ensure the ASCII art aligns as expected */
 }
   
+.terminal-button {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #00ff00;
+    background-color: #000000;
+    border: 1px solid #00ff00;
+    text-decoration: none;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    transition: all 0.3s ease-out;
+  }
+  
+.terminal-button:hover {
+    color: #000000;
+    background-color: #00ff00;
+}
   
