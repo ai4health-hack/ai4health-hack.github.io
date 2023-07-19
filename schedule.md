@@ -19,7 +19,7 @@ layout: page
     <h1 class="organizers-title">-- Day 1 --</h1>
     </div>
     <div class="info">
-    Saturday, Sepetember 23rd.<br><br>
+    Saturday, September 23rd.<br><br>
 </div> 
 </div>
 
@@ -45,7 +45,7 @@ layout: page
     <h1 class="organizers-title">-- Day 2 --</h1>
     </div>
     <div class="info">
-    Sunday, Sepetember 24th.<br><br>
+    Sunday, September 24th.<br><br>
 </div> 
 </div>
 
