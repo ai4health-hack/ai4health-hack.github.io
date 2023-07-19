@@ -1,5 +1,5 @@
 ---
-title: /health-hack
+title: /home
 layout: home
 permalink: /
 ---
