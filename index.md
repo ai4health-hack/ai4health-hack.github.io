@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- <div class="center">
-  <a href="https://forms.gle/wqUz6QWJqdaPBLyC8" class="animated-button"> > Register < </a>
+  <a href="https://forms.gle/JRGnFz8AU5hEjr1aA" class="animated-button"> > Register < </a>
 </div> -->
 <p class="txt-type" data-wait="1000" data-words='["Welcome.", "Interested in disrupting healthcare?", "Join us for a 2 day hackathon.", "23-24 September 2023.", "Imperial College London.", "Registration now open..."]'></p>
 
