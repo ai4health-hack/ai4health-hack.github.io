@@ -15,7 +15,7 @@ We're thrilled to invite you to London's Generative AI x Healthcare Hackathon!
 
 This event embodies our mission to address the significant inefficiencies and challenges facing today's healthcare system. We are driven to harness the transformative power of AI, aiming to revolutionize healthcare as we understand it. Our ambition is to enhance productivity, streamline processes, and blaze the trail for advances in preventative and personalized medicine. By doing so, we will be better equipped to predict and mitigate disease, effectively leveraging AI to build a brighter, healthier future for healthcare and our population.
 
-Our committed organizers and generous sponsors have orchestrated a thrilling line-up for the hackathon. From an impressive array of prizes to be won, an abundance of food and drink, compute and API credits to be used, to an engaging schedule of renowned invited speakers - we've got it all. Join us as we make strides towards innovation in healthcare.
+Our committed organizers and generous sponsors have orchestrated a thrilling line-up for the hackathon. From an impressive array of prizes to be won, an abundance of food and drink, compute and Open AI and Azure API credits to be used, to an engaging schedule of renowned invited speakers - we've got it all. Join us as we make strides towards innovation in healthcare.
 
 <div class="center">
   <a href="https://forms.gle/wqUz6QWJqdaPBLyC8" class="terminal-button">REGISTER</a>
