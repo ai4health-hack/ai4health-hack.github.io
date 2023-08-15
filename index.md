@@ -22,8 +22,8 @@ Our committed organizers and generous sponsors have orchestrated a thrilling lin
 </div>
 
 # When?
-Registration Opens: 1 August, 2023.
-Registration Closes: 14 September, 2023.
+Registration Opens: 15 August, 2023.
+Registration Closes: 10 September, 2023.
 Hackathon Dates: <b> 23-24 September, 2023. </b>
 
 # Where?
