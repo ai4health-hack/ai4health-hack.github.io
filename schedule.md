@@ -56,7 +56,7 @@ layout: page
 |--------------|-------------------------------------|
 | 09:00-09:30  | Breakfast and Coffee                |
 | 09:30-12:00  | Hackathon Continues                 |
-| 12:00-13:00  | Lunch                               |
+| 12:00-13:00  | Lunch / Invited Talk                |
 | 13:00-14:00  | Hackathon Continues and Finishes    |
 | 14:00-15:30  | Presentations and Judging           |
 | 15:30-16:00  | Prize Giving and Closing Events     |
