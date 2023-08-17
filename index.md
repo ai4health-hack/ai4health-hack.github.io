@@ -27,7 +27,7 @@ Registration Closes: 10 September, 2023.
 Hackathon Dates: <b> 23-24 September, 2023. </b>
 
 # Where?
-Queen's Tower Rooms,
+Huxley Building,
 Imperial College London,
 London, SW7 2AZ.
 
