@@ -29,7 +29,7 @@ layout: page
 |--------------|-------------------------------------|
 | <b>Time</b>         | <b>Event</b>                               |
 |--------------|-------------------------------------|
-| 09:00-09:30  | Breakfast and Coffee                |
+| 09:00-09:30  | Coffee                              |
 | 09:30-10:00  | Introduction Presentations          |
 |              | (Including Challenges and Rules)    |
 | 10:00-11:00  | Project Pitches and Team Formation  |
@@ -54,7 +54,7 @@ layout: page
 |--------------|-------------------------------------|
 | <b>Time</b>         | <b>Event</b>                               |
 |--------------|-------------------------------------|
-| 09:00-09:30  | Breakfast and Coffee                |
+| 09:00-09:30  | Coffee                              |
 | 09:30-12:00  | Hackathon Continues                 |
 | 12:00-13:00  | Lunch / Invited Talk                |
 | 13:00-14:00  | Hackathon Continues and Finishes    |
