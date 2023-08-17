@@ -1,5 +1,5 @@
 ---
-title: /home
+title: /hackathon
 layout: home
 permalink: /
 ---
