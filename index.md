@@ -34,6 +34,9 @@ London, SW7 2AZ.
 # Who?
 Students, professionals, developers, AI enthusiasts, healthcare professionals - anyone with a passion for AI in healthcare is welcome. 
 
+# Can't attend?
+If you are interested in AI for healthcare but cannot attend this hackathon, you can <a href="https://forms.gle/e6ZNMaorh8JihP6L9">join our community</a>.
+
 # Want to volunteer?
 We're looking for technical experts to volunteer and provide floating mentor support over the weekend. If you're interested, <a href="https://forms.gle/fTBHJXJDoAAEmDRe6">sign up here</a>.
 
